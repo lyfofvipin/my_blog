@@ -11,6 +11,6 @@
   "license": "ISC",
   "homepage": "https://vipin3699.github.io/my_blog",
   "dependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^5.0.0"
   }
 }
